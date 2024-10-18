@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+tensorboard
+scikit-learn
+pillow
