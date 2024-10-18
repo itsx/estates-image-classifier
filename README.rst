@@ -2,6 +2,12 @@
 estates-image-classifier
 ========================
 
+Huggingface models
+==================
+
+ - https://huggingface.co/itsx-tom/estates-testing-classifier
+ - https://huggingface.co/itsx-tom/estates-exterier-interier-classifier
+
 Local setup
 ===========
 
